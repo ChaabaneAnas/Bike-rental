@@ -65,7 +65,8 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 Trek Bike Rental <a name="about-project"></a>
 
-**Trek Bike Rental** is a rental web app designed to allow users rent a bike from Trek rental company.
+**Trek Bike Rental** is a full stack web application that let's the use Creat delete and reserve it uses react/redux as front end frameworks and 
+a RoR build api for the server side the web site is also has multiple features such as night mode Color switching swiper and a attractive layout.
 
 ## 🛠 Built With <a name="built-with"></a>
 
