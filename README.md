@@ -65,8 +65,8 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 Trek Bike Rental <a name="about-project"></a>
 
-**Trek Bike Rental** is a full stack web application that let's the use Creat delete and reserve it uses react/redux as front end frameworks and 
-a RoR build api for the server side the web site is also has multiple features such as night mode Color switching swiper and a attractive layout.
+**Trek Bike Rental** is a full stack web application, the users are able to Sign up,Creat delete or reserve bike ,React and Redux and vanilla css are used for the front-end to including multiple features such as night mode, Color switching, swiper, along with an attractive layout.
+the App comunicates to an RoR restfull built api for performing all CRUD operations.
 
 ## 🛠 Built With <a name="built-with"></a>
 
